@@ -1,2 +1,2 @@
 # landing-page-2
-"Hello beautiful people!" 
+"So I've been away for a couple of years and recently decided to jump back in, I didn't know where to begin relearning so I decided this would be a perfect playground to relearn everything I've read but with a twist! This project is not a blantant 'copy paste' of the original project I've worked on. This time I made sure that my html is more compact and has less unnecessary lines of code. I've also tweaked around with the css side too adding new and unique properties I've searched online! Its good to be back after 2 years" 
